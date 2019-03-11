@@ -1,0 +1,10 @@
+touch (Creating a new file)
+
+code . (Opening file through VS code)
+
+explorer . (Open folder through window files)
+
+mkdir (Make directory)
+
+rm (remove file, folder, etc)
+
